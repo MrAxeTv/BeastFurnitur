@@ -1,0 +1,6 @@
+name: BeastFurniture
+version: '${project.version}'
+main: me.mraxetv.beastfurniture.BeastFurniture
+api-version: 1.16
+authors: [ MrAxeTv ]
+description: Furniture plugin!
